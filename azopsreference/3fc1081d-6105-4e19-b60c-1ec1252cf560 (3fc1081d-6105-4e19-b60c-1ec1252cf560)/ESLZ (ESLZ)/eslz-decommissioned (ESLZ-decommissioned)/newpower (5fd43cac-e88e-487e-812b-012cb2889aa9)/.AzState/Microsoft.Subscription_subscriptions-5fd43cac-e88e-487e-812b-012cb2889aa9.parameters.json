@@ -1,0 +1,15 @@
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "input": {
+      "value": {
+        "Type": "/subscriptions",
+        "Id": "/subscriptions/5fd43cac-e88e-487e-812b-012cb2889aa9",
+        "Name": "5fd43cac-e88e-487e-812b-012cb2889aa9",
+        "DisplayName": "newpower",
+        "Children": null
+      }
+    }
+  }
+}

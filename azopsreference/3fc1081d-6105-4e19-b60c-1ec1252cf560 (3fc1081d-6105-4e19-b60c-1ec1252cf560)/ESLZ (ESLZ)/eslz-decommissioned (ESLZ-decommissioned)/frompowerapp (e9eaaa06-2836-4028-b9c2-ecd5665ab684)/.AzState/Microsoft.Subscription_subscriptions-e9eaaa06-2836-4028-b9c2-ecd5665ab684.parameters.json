@@ -1,0 +1,15 @@
+{
+  "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "input": {
+      "value": {
+        "Type": "/subscriptions",
+        "Id": "/subscriptions/e9eaaa06-2836-4028-b9c2-ecd5665ab684",
+        "Name": "e9eaaa06-2836-4028-b9c2-ecd5665ab684",
+        "DisplayName": "frompowerapp",
+        "Children": null
+      }
+    }
+  }
+}
